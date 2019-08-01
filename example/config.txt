@@ -1,0 +1,2 @@
+Prefix plugins/Centroid/example/
+Plugin Centroid inputfile corrP.gml outputfile none
