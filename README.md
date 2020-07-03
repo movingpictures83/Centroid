@@ -1,8 +1,9 @@
-# MakeScaleFree
+# Centroid
 # Language: Python
 # Input: GML (network)
 # Output: Screen (list of centroid nodes)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: networkx=2.2
 
 PluMA plugin that runs the Centroid algorithm of (Wuchty and Stadler, 2003)
 to determine the most central nodes in a network.
